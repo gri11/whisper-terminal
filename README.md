@@ -2,12 +2,12 @@
 
 ## Python Usage
 
-    ```bash
+    
     pip install mlx-whisper
     pip install sounddevice
     chmod +x main.py
     python main.py
-    ```
+    
 
 ## TODO
 
